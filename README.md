@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-
+<!--
 ## <picture> <img src="https://github.com/NadjetCoeurbouche/NadjetCoeurbouche/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 
@@ -90,11 +90,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br> 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadjetcoeurbouche&label=Profile%20views&color=0e75b6&style=flat" alt="nadjetcoeurbouche" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadjetcoeurbouche" alt="nadjetcoeurbouche" /></a> </p>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
