@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 	
 ## <picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 👋 Hi, I’m @NadjetCoeurbouche
-- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev & Solving Problems
+- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev
 - 🌱 I’m currently learning Flutter Animation
-- 💞️ I’m looking to collaborate on open source projects in flutter
+- 💞️ I’m looking to collaborate on open-source projects in Flutter
 - 📫 How to reach me nadjetkerbouche@gmail.com
 
 <picture> <img align="right" src="https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
