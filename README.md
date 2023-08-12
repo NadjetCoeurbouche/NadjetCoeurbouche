@@ -111,7 +111,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p>  <a href="https://github.com/NadjetCoeurbouche">
-    <img align="center" alt="NadjetCoeurbouche" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="NadjetCoeurbouche" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </p>
 
