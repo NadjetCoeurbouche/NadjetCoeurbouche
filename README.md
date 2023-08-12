@@ -114,6 +114,10 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="NadjetCoeurbouche" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </p>
+<p>  <a href="https://github.com/NadjetCoeurbouche">
+    <img align="center" alt="NadjetCoeurbouche" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact" />
+</a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadjetcoeurbouche&show_icons=true&locale=en" alt="nadjetcoeurbouche" /></p>
 
