@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 	<p>&nbsp;<img align="center" alt="NadjetCoeurbouche" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true"
 /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadjetcoeurbouche&show_icons=true&locale=en" alt="nadjetcoeurbouche" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NadjetCoeurbouche&show_icons=true&locale=en" alt="NadjetCoeurbouche" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadjetcoeurbouche&" alt="nadjetcoeurbouche" />
