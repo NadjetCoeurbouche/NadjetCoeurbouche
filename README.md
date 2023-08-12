@@ -110,7 +110,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadjetcoeurbouche&show_icons=true&locale=en&layout=compact" alt="nadjetcoeurbouche" /></p>
+<p>![VisitorCount](https://profile-counter.glitch.me/NadjetCoeurbouche/count.svg)
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadjetcoeurbouche&show_icons=true&locale=en" alt="nadjetcoeurbouche" /></p>
 
@@ -122,5 +123,6 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
   
