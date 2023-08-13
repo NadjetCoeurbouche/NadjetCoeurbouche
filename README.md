@@ -3,11 +3,9 @@ NadjetCoeurbouche/NadjetCoeurbouche is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-@NadjetCoeurbouche 
-
 <h1 align="center">✨ Hi , I'm Nadjet KERBOUCHE ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@NadjetCoeurbouche;Cloud+Computing+Enthusiast;Competitive+Programmer;Expert+on+Mobile+Dev;Best+is+Yet+to+come+(5+Stars);Problem+Solver;Always+learning+new+things;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@NadjetCoeurbouche;Cloud+Computing+Enthusiast;Competitive+Programmer;Expert+on+Mobile+Dev;Best+is+Yet+to+come+(✨);Problem+Solver;Always+learning+new+things;"></a>
 </p>
 
 
@@ -40,8 +38,8 @@ You can click the Preview link to take a look at your changes.
 ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche)](https://github.com/anuraghazra/github-readme-stats)
   
-<p align = "center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NadjetCoeurbouche&langs_count=8&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="NadjetCoeurbouche's Github Stats" width="60%"/></p>
+<!--<p align = "center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NadjetCoeurbouche&langs_count=8&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="NadjetCoeurbouche's Github Stats" width="60%"/></p>-->
 
 ---
 
