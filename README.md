@@ -49,10 +49,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
   <a href="https://github.com/NadjetCoeurbouche-v">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
   <a href="https://github.com/chakravarthi-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NadjetCoeurbouche-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="NadjetCoeurbouche's github stats" height="220px" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NadjetCoeurbouche&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="NadjetCoeurbouche's github stats" height="220px" />
   </a>
 
 
