@@ -2,15 +2,17 @@
 NadjetCoeurbouche/NadjetCoeurbouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h1 align="center">✨ Hi , I'm Nadjet KERBOUCHE 👋 ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Cloud+Computing+Enthusiast;Competitive+Programmer;Expert+on+Mobile+Dev;The+best+is+yet+to+come+✨;Problem+Solver;Always+learning+new+things;"></a>
 </p>
 <br>
-#<picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
-- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Developer
--  I’m looking to collaborate on open-source projects in Cloud Computing
-- 📫 How to reach me nadjetkerbouche@gmail.com
+<picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+#About me <br>
+- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Developer <br>
+-  I’m looking to collaborate on open-source projects in Cloud Computing <br>
+- 📫 How to reach me nadjetkerbouche@gmail.com <br>
 <picture> <img align="right" src="https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -35,6 +37,18 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  </p>
+
+<br>
+
+<br>
+
+  <a href="https://github.com/NadjetCoeurbouche-v">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadjetCoeurbouche-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  </a>
+  <a href="https://github.com/chakravarthi-v">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NadjetCoeurbouche-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="NadjetCoeurbouche's github stats" height="220px" />
+  </a>
+
 
 ---
 
