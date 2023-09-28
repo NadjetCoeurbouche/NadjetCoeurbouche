@@ -13,12 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-###<picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
-- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Developer <br>
--  I’m looking to collaborate on open-source projects in Cloud Computing <br>
-- 📫 How to reach me nadjetkerbouche@gmail.com <br>
+## <picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Developer
+- 💞️ I’m looking to collaborate on open-source projects in Cloud Computing
+- 📫 How to reach me nadjetkerbouche@gmail.com
+
 <picture> <img align="right" src="https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
+
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadjetkerbouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
