@@ -11,10 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-
-
 ## <picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
-- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Developer
+- 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Dev
 - 💞️ I’m looking to collaborate on open-source projects in Cloud Computing
 - 📫 How to reach me nadjetkerbouche@gmail.com
 
