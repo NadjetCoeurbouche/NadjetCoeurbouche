@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ## <picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 - 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Dev
 - 👩🏻‍💻 I’m looking to collaborate on open-source projects in Cloud Computing
-- 📫 Reach me on <a  href="https://www.linkedin.com/in/nadjetkerbouch">LinkedIn</a>
+- 📫 Reach me on <a  href="https://www.linkedin.com/in/nadjetkerbouche">LinkedIn</a>
 <picture> <img align="right" src="https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
