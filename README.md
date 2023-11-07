@@ -7,13 +7,17 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Cloud+Computing+Enthusiast;Competitive+Programmer;Expert+on+Mobile+Dev;The+best+is+yet+to+come+✨;Problem+Solver;Always+learning+new+things;"></a>
 </p>
+
 <br>
+
 ## <picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 - 👀 I’m interested in Cloud Computing, Flutter Mobile Dev and Web Dev
 - 👩🏻‍💻 I’m looking to collaborate on open-source projects in Cloud Computing
 - 📫 Reach me on <a  href="https://www.linkedin.com/in/nadjetkerbouch">LinkedIn</a>
 <picture> <img align="right" src="https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadjetkerbouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
